@@ -1,4 +1,4 @@
-function Footer() {
+export function Footer() {
   return (
     <footer className="text-white text-base bottom-0 fixed w-full text-center">
       <div className="pb-1.5 opacity-0 animate-[appear_0.9s_forwards]">
@@ -27,4 +27,3 @@ function Footer() {
   );
 }
 
-export default Footer;
