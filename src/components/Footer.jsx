@@ -1,4 +1,4 @@
-export function Footer() {
+export const Footer = () => {
   return (
     <footer className="text-white text-base bottom-0 fixed w-full text-center">
       <div className="pb-1.5 opacity-0 animate-[appear_0.9s_forwards]">
@@ -8,7 +8,7 @@ export function Footer() {
           className="fa fa-linkedin hover:scale-125 px-4 pt-0 text-2xl"
         ></a>
         <a
-          href="mailto: lucasamaral18y@gmail.com"
+          href="mailto: amaralrdev@gmail.com"
           target="_blank"
           className="fa fa-envelope  hover:scale-125 px-4 pt-0 text-2xl"
         ></a>
