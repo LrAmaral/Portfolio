@@ -1,27 +1,14 @@
+import { Tech}  from './Tech'
+
 export const Main = () => {
   return (
-    <div id="sobre" className="text-white not-italic">
-      <div>
-        <h1 className="absolute w-44 left-[110px] top-[280px] text-2xl leading-[20px] font-extrabold">
+    <div className="text-white not-italic flex flex-col justify-center h-[65vh] xs:w-full lg:w-5/6 mx-auto">
+      <div className='flex flex-col gap-24 xs:px-6 lg:px-0'>
+        <h1 className="text-2xl leading-[20px] font-extrabold">
           ☕ Hello World!
         </h1>
-        <p className="absolute w-[700px] left-[110px] top-[420px] text-sm font-normal leading-6 sm:text-base md:text-xs lg:text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio id
-          incidunt excepturi ullam facere distinctio doloremque repellendus,
-          asperiores ea sed, laudantium eaque. Animi labore quibusdam modi ex
-          tempore debitis perspiciatis.
-        </p>
-        <p className="absolute w-[700px] left-[110px] top-[1020px] text-sm font-normal leading-6 sm:text-base md:text-xs lg:text-xl">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eveniet
-          doloremque itaque obcaecati commodi voluptatum quae maxime quis quam,
-          reprehenderit, qui temporibus atque fuga praesentium ab, officiis
-          nobis impedit esse rerum.
-        </p>
-        <p className="absolute w-[700px] left-[110px] top-[1220px] text-sm font-normal leading-6 sm:text-base md:text-xs lg:text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente,
-          ipsum! Quas earum unde tempora veritatis odio! Accusamus odit aliquam
-          neque iste impedit. Eveniet culpa delectus modi sunt, velit voluptates
-          tempora.
+        <p className="lg:w-1/4 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
+          Bem-vindo ao meu website, aqui você vai conhecer um pouco das minhas skills que tenho para oferecer e agregar ao mercado.
         </p>
       </div>
     </div>
