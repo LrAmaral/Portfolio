@@ -18,7 +18,7 @@ export const Footer = () => {
           className="fa fa-github  hover:scale-125 transition-all px-4 pt-0 text-2xl"
         ></a>
         <a
-          href="https://www.instagram.com/_ri3llo/"
+          href="https://www.instagram.com/amaraldev/"
           target="_blank"
           className="fa fa-instagram  hover:scale-125 transition-all px-4 pt-0 text-2xl text-orange-400"
         ></a>

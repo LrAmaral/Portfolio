@@ -5,16 +5,17 @@ export const Tech = () => {
       className="text-white h-[65vh] items-center flex xs:flex-col lg:flex-row xs:w-full lg:w-5/6 xs:px-6 lg:px-0 mx-auto xs:justify-center lg:justify-between xs:gap-24 lg:gap-0"
     >
       <div className="flex flex-col gap-24">
-        <p className="lg:w-5/6 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
-          Atualmente focado nos estudos com React, UI e UX, buscando desenvolver
-          aplicações com belas interfaces e fácil acessibilidade.
+        <p className="indent-6 lg:w-4/5 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
+          Meus hobbies sempre foram com muito contato com a tecnologia, partindo de jogos, edições de vídeo, eu carregava (e carrego) 
+          uma curiosidade imensa em aprender coisas novas... agora,
+          com 21 anos me dedico aos estudos voltados para a área de front-end.
         </p>
-        <p className="lg:w-5/6  xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
-          Actually focusing on studying React, UI and UX, searching developing
-          applications with beauty designs and easy acessibility.
+        <p className="indent-6 lg:w-4/5 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
+          Atualmente focando nos estudos com <code>React</code> e <code>Tailwind</code>, buscando desenvolver
+          aplicações com interfaces modernas e com toques de simplicidade.
         </p>
       </div>
-      <div className="">
+      <div>
         <div className="bg-zinc-900 border border-stone-500 flex flex-col p-8 rounded-md items-center justify-center gap-6">
           <p className="font-extrabold flex items-center text-xl">
             🌱 Learning
