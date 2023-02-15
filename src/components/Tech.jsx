@@ -16,7 +16,7 @@ export const Tech = () => {
         </p>
       </div>
       <div>
-        <div className="bg-zinc-900 border border-stone-500 flex flex-col p-8 rounded-md items-center justify-center gap-6">
+        <div className="bg-zinc-700 border border-stone-500 flex flex-col p-8 rounded-md items-center justify-center gap-6">
           <p className="font-extrabold flex items-center text-xl">
             🌱 Learning
           </p>

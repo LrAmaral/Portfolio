@@ -22,7 +22,7 @@ module.exports = {
         'sans': ['Inknut Antiqua'],
       },
       backgroundImage: {
-        fundo: "url('/fundo-2.jpg')"
+        fundo: "url('/fundo-3.jpg')"
       }
     },
     screens: {
