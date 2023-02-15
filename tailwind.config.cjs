@@ -20,6 +20,9 @@ module.exports = {
       },
       fontFamily: {
         'sans': ['Inknut Antiqua'],
+      },
+      backgroundImage: {
+        fundo: "url('/fundo-2.jpg')"
       }
     },
     screens: {

@@ -6,7 +6,7 @@ import { Tech } from "./components/Tech.jsx";
 
 function App() {
   return (
-    <div className="bg-[url(./fundo-2.jpg)] bg-cover bg-no-repeat bg-fixed bg-center">
+    <div className="bg-fundo bg-cover bg-no-repeat bg-fixed bg-center">
       <Nav />
       <Main />
       <Tech />
