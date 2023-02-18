@@ -33,7 +33,6 @@ module.exports = {
       xl: '1280px',
     },
     dropShadow: {
-      
     },
   },
   plugins: [],
