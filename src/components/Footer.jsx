@@ -20,7 +20,7 @@ export const Footer = () => {
         <a
           href="https://www.instagram.com/amaraldev/"
           target="_blank"
-          className="fa fa-instagram  hover:scale-125 transition-all px-4 pt-0 text-2xl text-orange-400"
+          className="fa fa-instagram  hover:scale-125 transition-all px-4 pt-0 text-2xl"
         ></a>
       </div>
     </footer>

@@ -9,10 +9,10 @@ export const Project = () => {
           <button className="bg-gradient-to-bl from-blue-700 via-zinc-800 to-zinc-800 border-2 rounded-lg xs:py-16 xs:px-0 lg:px-24 lg:py-32 hover:scale-105 transition-all font-bold">
             <a href="" target="_blank"></a>👨🏽‍💻 coming soon
           </button>
-          <button className="bg-gradient-to-bl from-blue-700 via-zinc-800 to-zinc-800 border-2 rounded-lg xs:py-16 xs:px-0 lg:px-24 lg:py-32 hover:scale-105 transition-all font-bold">
+          <button className="bg-gradient-to-b from-blue-700 via-zinc-800 to-zinc-800 border-2 rounded-lg xs:py-16 xs:px-0 lg:px-24 lg:py-32 hover:scale-105 transition-all font-bold">
             👨🏽‍💻 coming soon
           </button>
-          <button className="bg-gradient-to-bl from-blue-700 via-zinc-800 to-zinc-800 border-2 rounded-lg xs:py-16 xs:px-0 lg:px-24 lg:py-32 hover:scale-105 transition-all font-bold">
+          <button className="bg-gradient-to-br from-blue-700 via-zinc-800 to-zinc-800 border-2 rounded-lg xs:py-16 xs:px-0 lg:px-24 lg:py-32 hover:scale-105 transition-all font-bold">
             👨🏽‍💻 coming soon
           </button>
         </div>
