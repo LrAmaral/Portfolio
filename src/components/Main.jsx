@@ -1,10 +1,9 @@
-import { Tech } from "./Tech";
-import { motion } from 'framer-motion';
-import { Nav } from './Nav'
+import { motion } from "framer-motion";
+import { Nav } from "./Nav";
 
 export const Main = () => {
   return (
-    <div className="bg-fundo bg-cover">
+<div className="bg-fundo bg-cover">
       <Nav />
     <div className="flex flex-row h-screen">
     <div className="text-white not-italic flex flex-col justify-center xs:w-full lg:w-5/6 mx-auto">
