@@ -1,5 +1,5 @@
 # My personal Portfolio
-this is how my website it is today, working in progress ...
 
+# working in progress... 🛠🏗
+![print](https://user-images.githubusercontent.com/87763007/221925210-0724091c-fbc7-4354-98f5-fe7c3efb4496.jpg)
 
-![image](https://user-images.githubusercontent.com/87763007/219073242-3fee2749-1ed2-476e-a869-4541b21f1b49.png)
