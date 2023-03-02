@@ -3,19 +3,19 @@ import { Nav } from "./Nav";
 
 export const Main = () => {
 
-  function main(){
+  // function main(){
 
-    document.querySelector(".texto");
-      const palavras = [
-        '☕ Hello World!', 
-        `👋🏽 I'm Lucas Amaral`, 
-        '🚀 Welcome to my Portfolio'
-      ]
+  //   document.querySelector(".texto");
+  //     const palavras = [
+  //       '☕ Hello World!', 
+  //       `👋🏽 I'm Lucas Amaral`, 
+  //       '🚀 Welcome to my Portfolio'
+  //     ]
 
-      for(var i = 0; i < palavras.length; i++){
-        texto.textContent = "palavras";
-      }
-  }
+  //     for(var i = 0; i < palavras.length; i++){
+  //       texto.textContent = "palavras";
+  //     }
+  // }
 
   return (
   <div className="bg-fundo bg-cover">
