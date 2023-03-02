@@ -1,4 +1,4 @@
-My personal Portfolio done with React and Tailwind 💻
+My personal Portfolio with React and Tailwind 💻
 
 working in progress... 🛠🏗
 
