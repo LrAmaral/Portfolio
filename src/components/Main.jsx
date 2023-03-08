@@ -25,7 +25,7 @@ export const Main = () => {
           <div className="flex flex-col gap-24 xs:px-6 lg:px-0">
             <motion.h1
               id="texto"
-              animate={{ x: 80 }}
+              animate={{ x: 40 }}
               transition={{ type: "spring", stiffness: 20, mass: 0.4 }}
               className="text-2xl leading-[20px] font-extrabold"
             >
