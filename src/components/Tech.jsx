@@ -2,7 +2,7 @@ export const Tech = () => {
   return (
     <div className="bg-gradient-to-bl from-stone-800 via-red-600 to-stone-800">
     <div
-      id="sobre"
+      id="about"
       className="text-white h-screen items-center flex xs:flex-col lg:flex-row xs:w-full lg:w-5/6 xs:px-6 lg:px-0 mx-auto xs:justify-center lg:justify-between xs:gap-24 lg:gap-0"
     >
       <div className="flex flex-col gap-24">
