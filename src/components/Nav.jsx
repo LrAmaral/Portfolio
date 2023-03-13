@@ -8,7 +8,7 @@ export const Nav = () => {
                         <li><a href="../archive/cv.pdf" download className="rounded-xl hover:underline underline-offset-4">Currículo</a></li>
                     </ul>  
         </nav>
-    )
-};
+    );
+}
 
 

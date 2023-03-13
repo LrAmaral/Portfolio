@@ -22,18 +22,19 @@ module.exports = {
         'sans': ['Inknut Antiqua'],
       },
       backgroundImage: {
-        fundo: "url('/fundo-3.jpg')"
-      }
+        fundo: "url('/fundo-3.jpg')",
+        fundo2: "url('/explorer-1.jpg')"
+      },
     },
-    screens: {
-      xs: '360px',
-      sm: '640px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1280px',
+      screens: {
+        xs: '360px',
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+        xl: '1280px',
+      },
+      dropShadow: {
+      },
     },
-    dropShadow: {
-    },
-  },
   plugins: [],
 }

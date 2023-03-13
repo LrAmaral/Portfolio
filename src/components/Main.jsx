@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import { Nav } from "./Nav";
 
-
 export const Main = () => {
   // function main(){
 
@@ -31,7 +30,7 @@ export const Main = () => {
             >
               <img src="./logo.svg" alt="logo" className="w-72"/>
             </motion.h1>
-            <p className="indent-6 lg:w-2/4 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
+            <p className="indent-7 lg:w-2/4 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
               Bem-vindo ao meu website, aqui você vai conhecer um pouco das
               minhas skills que tenho para oferecer e agregar ao mercado.
             </p>
@@ -41,4 +40,4 @@ export const Main = () => {
       </div>
     </div>
   );
-};
+}

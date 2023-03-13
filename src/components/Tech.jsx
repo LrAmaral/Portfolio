@@ -7,12 +7,12 @@ export const Tech = () => {
     >
       <div className="flex flex-col gap-24">
         <p className="indent-6 lg:w-4/5 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
-          Meus hobbies sempre foram com muito contato com a tecnologia, partindo de jogos, edições de vídeo, eu carregava (e carrego) 
-          uma curiosidade imensa em aprender coisas novas... agora,
-          com 21 anos me dedico aos estudos voltados para a área de front-end.
+          Meus hobbies sempre foram com muito contato com a tecnologia, partindo de jogos, edições de vídeo, eu carrego 
+          uma curiosidade imensa em aprender coisas novas, agora,
+          com 21 anos me dedico aos estudos para a área de desenvolvimento front-end.
         </p>
         <p className="indent-6 lg:w-4/5 xs:w-full font-normal leading-6 xs:text-base lg:text-xl">
-          Atualmente focando nos estudos com <code>React</code> e <code>Tailwind</code>, buscando desenvolver
+          Atualmente focando nos estudos com <code>Php, React</code> e <code>Tailwind</code>, buscando desenvolver
           aplicações com interfaces modernas e com toques de simplicidade.
         </p>
       </div>
@@ -54,4 +54,4 @@ export const Tech = () => {
     </div>
     </div>
   );
-};
+}
