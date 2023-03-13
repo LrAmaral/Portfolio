@@ -36,5 +36,5 @@ module.exports = {
       dropShadow: {
       },
     },
-  plugins: [],
+  plugins: [require("tailwind-scrollbar")],
 }
